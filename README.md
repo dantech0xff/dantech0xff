@@ -1,2 +1,3 @@
-<script src="https://widgets.coingecko.com/coingecko-coin-heatmap-widget.js"></script>
-<coingecko-coin-heatmap-widget  height="400" locale="en"></coingecko-coin-heatmap-widget>
+_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
+
+Daireth Winehouse
