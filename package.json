@@ -1,0 +1,25 @@
+{
+  "name": "danhtran.dev",
+  "version": "1.0.0",
+  "description": "@danhtran.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhtran-dev/danhtran-dev.git"
+  },
+  "keywords": [
+    "danhtran.dev"
+  ],
+  "author": "danhtran.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhtran-dev/danhtran-dev/issues"
+  },
+  "homepage": "https://github.com/danhtran-dev/danhtran-dev#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
