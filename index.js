@@ -24,10 +24,10 @@ var checkMarketInfo = async() => {
     // console.log(market_cap_change_percentage_24h_usd)
     // console.log(updateAt)
 
-    const str1 = "Active Crypto: " + active_cryptocurrencies
-    const str2 = "% Market Cap: " + "BTC " + market_cap_percentage['btc'].toFixed(2) + "%" + " | ETH " + market_cap_percentage['eth'].toFixed(2) + "%" + " | BNB " + market_cap_percentage['bnb'].toFixed(2) + "%"
-    const str3 = "Total Market Cap Changed 24h: " + market_cap_change_percentage_24h_usd.toFixed(2) + "%"
-    const str4 = "Updated At: " + new Date().toLocaleString('en-GB')
+    const str1 = "- Active Crypto: " + active_cryptocurrencies
+    const str2 = "- % Market Cap: " + "BTC " + market_cap_percentage['btc'].toFixed(2) + "%" + " | ETH " + market_cap_percentage['eth'].toFixed(2) + "%" + " | BNB " + market_cap_percentage['bnb'].toFixed(2) + "%"
+    const str3 = "- Total Market Cap Changed 24h: " + market_cap_change_percentage_24h_usd.toFixed(2) + "%"
+    const str4 = "- Updated At: " + new Date().toLocaleString('en-GB')
 
     console.log(str1)
     console.log(str2)
