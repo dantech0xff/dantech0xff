@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Senior Software Engineer
 - 😄 But have a passion on crypto projects
 - 💬 Ask me about Android, Crypto, Running 
-- 📫 How to reach me: (danhtran.dev)[https://danhtran.dev/] or checkout [My Resume](Developer-Resume.pdf)
+- 📫 How to reach me: [danhtran.dev](https://danhtran.dev) or [My Resume](Developer-Resume.pdf)
 - 🌱 Building a website to help people find their dream house (updating ...)
 
 ### Crypto Market Summarize
