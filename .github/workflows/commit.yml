@@ -1,0 +1,29 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Crypto Market Updater
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 */3 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12.16.1
+    - run: npm ci
+    - name: Crypto Market Updater
+      run: node index.js
+    - name: Update README.md
+      run: |
+        git config --global user.email "danhtran.dev@outlook.com"
+        git config --global user.name "danhtran-dev"
+        git add .
+        git commit -m "Update Crypto Market Data" || echo "No changes to commit"
+        git push
