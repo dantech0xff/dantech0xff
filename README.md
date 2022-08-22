@@ -7,7 +7,7 @@
 - 🌱 Building a website to help people find their dream house (updating ...)
 
 ### Crypto Market Summarize
-- Active Crypto: 12960
-- % Market Cap: BTC 38.47% | ETH 18.04% | BNB 4.55%
-- Total Market Cap Changed 24h: 0.93%
-- Updated At: 8/22/2022, 6:27:28 AM
+- Active Crypto: 12931
+- % Market Cap: BTC 38.66% | ETH 17.89% | BNB 4.55%
+- Total Market Cap Changed 24h: -1.48%
+- Updated At: 8/22/2022, 9:18:28 AM
