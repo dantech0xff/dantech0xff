@@ -8,6 +8,6 @@
 
 ### Crypto Market Summarize
 - Active Crypto: 12377
-- % Market Cap: BTC 39.66% | ETH 17.51% | BNB 4.56%
-- Total Market Cap Changed 24h: -4.66%
-- Updated At: 2/10/2023, 3:23:57 AM
+- % Market Cap: BTC 39.63% | ETH 17.54% | BNB 4.53%
+- Total Market Cap Changed 24h: -3.65%
+- Updated At: 2/10/2023, 6:21:43 AM
