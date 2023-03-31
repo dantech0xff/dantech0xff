@@ -29,15 +29,15 @@ var checkMarketInfo = async() => {
     const str3 = "- Total Market Cap Changed 24h: " + market_cap_change_percentage_24h_usd.toFixed(2) + "%"
     const str4 = "- Updated At: " + new Date().toLocaleString('en-GB')
 
-    console.log(str1)
-    console.log(str2)
-    console.log(str3)
-    console.log(str4)
+//     console.log(str1)
+//     console.log(str2)
+//     console.log(str3)
+//     console.log(str4)
 
 
     var extractReadMe = fs.readFileSync('template.md').toString()
-    console.log(typeof extractReadMe)
-    extractReadMe = extractReadMe.replace('{CRYPTO_DATA_HERE}', str1 + "\n" + str2 + "\n" + str3 + "\n" + str4)
+//     console.log(typeof extractReadMe)
+    extractReadMe = extractReadMe.replace('{CRYPTO_DATA_HERE}', str1 + "\n" + str2 + "\n" + str3)
     fs.writeFileSync("README.md", extractReadMe)
   }
 };
