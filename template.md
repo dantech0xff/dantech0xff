@@ -1,4 +1,4 @@
-### Hi there I'm danhtran.dev 👋
+### Hi there I'm Dan Tech 👋
 
 - 🔭 I’m currently working as Senior Software Engineer
 - 💬 Ask me about Android, Crypto, Running 
