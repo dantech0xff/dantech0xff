@@ -23,7 +23,7 @@ jobs:
     - name: Update README.md
       run: |
         git config --global user.email "danhtran.dev@outlook.com"
-        git config --global user.name "danhtran-dev"
+        git config --global user.name "dantech0xff"
         git add .
         git commit -m "Update Crypto Market Data" || echo "No changes to commit"
         git push
