@@ -5,6 +5,6 @@
 - 📫 How to reach me: <a href="https://danhtran.dev" target="_blank">danhtran.dev</a> or <a href="Dan-Resume.pdf" target="_blank">My Resume</a>
 
 ### Crypto Market Summarize
-- Active Crypto: 17124
-- % Market Cap: BTC 60.98% | ETH 8.74% | BNB 2.73%
-- Total Market Cap Changed 24h: -1.20%
+- Active Crypto: 17148
+- % Market Cap: BTC 61.18% | ETH 8.65% | BNB 2.76%
+- Total Market Cap Changed 24h: 0.52%
