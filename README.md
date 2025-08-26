@@ -1,11 +1,22 @@
-### Hi there I'm Dan Tech 👋
+# 👋 Hey, I'm Dan Tran — Welcome
 
-- 🔭 I’m currently working as Senior Software Engineer
-- 💬 Ask me about Android, Crypto, Running
-- 📫 How to reach me: <a href="https://danhtran.dev" target="_blank">danhtran.dev</a> or <a href="Dan-Resume.pdf" target="_blank">My Resume</a>
+## <a href="https://dantech.academy" target="_blank">Extra $ by Technical Skills</a>
 
-### Crypto Market Summarize
+- 🧑‍💻 Passionate about building scalable Android apps and exploring the latest in crypto & blockchain.
+- 🏃‍♂️ Marathon runner, coffee lover, and always up for a challenge.
+- 🌏 Based in the HCM - VN, blending tech innovation with a love for the outdoors.
+- 🛠️ Experienced in mobile, backend, and cloud technologies. Always tinkering with new ideas.
 
-- Active Crypto: 17042
-- % Market Cap: BTC 60.92% | ETH 6.96% | BNB 3.11%
-- Total Market Cap Changed 24h: -1.45%
+## Fun Facts
+
+- I’ve coded apps used by millions worldwide.
+- I track crypto trends and share insights with my network.
+- I believe in continuous growth—whether it’s running a faster mile or learning a new framework.
+
+---
+
+### 📊 Crypto Market Summary
+
+- Active Crypto: 18413
+- % Market Cap: <span style="color: green; font-weight: bold;">BTC 56.38%</span> | <span style="color: blue; font-weight: bold;">ETH 13.98%</span> | <span style="color: gold; font-weight: bold;">BNB 3.03%</span>
+- Total Market Cap Changed 24h: -1.59%
