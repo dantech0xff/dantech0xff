@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Dan Tran — Welcome
 
-## <a href="https://dantech.academy" target="_blank">Extra $ by Technical Skills</a>
+## 💰 <a href="https://dantech.academy" target="_blank">Extra $ by Technical Skills</a>
 
 - 🧑‍💻 Passionate about building scalable Android apps and exploring the latest in crypto & blockchain.
 - 🏃‍♂️ Marathon runner, coffee lover, and always up for a challenge.
 - 🌏 Based in the HCM - VN, blending tech innovation with a love for the outdoors.
 - 🛠️ Experienced in mobile, backend, and cloud technologies. Always tinkering with new ideas.
 
-## Fun Facts
+## 💻 Fun Facts
 
 - I’ve coded apps used by millions worldwide.
 - I track crypto trends and share insights with my network.
@@ -15,7 +15,7 @@
 
 ---
 
-### 📊 Crypto Market Summary
+## 📊 Crypto Market Summary
 
 - Active Crypto: 18413
 - % Market Cap: <span style="color: green; font-weight: bold;">BTC 56.38%</span> | <span style="color: blue; font-weight: bold;">ETH 13.98%</span> | <span style="color: gold; font-weight: bold;">BNB 3.03%</span>
