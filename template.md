@@ -1,8 +1,20 @@
-### Hi there I'm Dan Tech 👋
+# 👋 Hey, I'm Dan Tran — Welcome
 
-- 🔭 I’m currently working as Senior Software Engineer
-- 💬 Ask me about Android, Crypto, Running 
-- 📫 How to reach me: <a href="https://danhtran.dev" target="_blank">danhtran.dev</a> or <a href="Dan-Resume.pdf" target="_blank">My Resume</a>
+## <a href="https://dantech.academy" target="_blank">Extra $ by Technical Skills</a>
 
-### Crypto Market Summarize
+- 🧑‍💻 Passionate about building scalable Android apps and exploring the latest in crypto & blockchain.
+- 🏃‍♂️ Marathon runner, coffee lover, and always up for a challenge.
+- 🌏 Based in the HCM - VN, blending tech innovation with a love for the outdoors.
+- 🛠️ Experienced in mobile, backend, and cloud technologies. Always tinkering with new ideas.
+
+## Fun Facts
+
+- I’ve coded apps used by millions worldwide.
+- I track crypto trends and share insights with my network.
+- I believe in continuous growth—whether it’s running a faster mile or learning a new framework.
+
+---
+
+### 📊 Crypto Market Summary
+
 {CRYPTO_DATA_HERE}
