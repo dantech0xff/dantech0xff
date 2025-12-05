@@ -17,6 +17,6 @@
 
 ## 📊 Crypto Market Summary
 
-- Active Crypto: 19301
-- % Market Cap: <span style="color: green; font-weight: bold;">BTC 57.00%</span> | <span style="color: blue; font-weight: bold;">ETH 11.79%</span> | <span style="color: gold; font-weight: bold;">BNB 3.90%</span>
-- Total Market Cap Changed 24h: 2.17%
+- Active Crypto: 19290
+- % Market Cap: <span style="color: green; font-weight: bold;">BTC 57.15%</span> | <span style="color: blue; font-weight: bold;">ETH 11.78%</span> | <span style="color: gold; font-weight: bold;">BNB 3.86%</span>
+- Total Market Cap Changed 24h: -1.18%
