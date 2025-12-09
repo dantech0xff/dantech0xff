@@ -34,19 +34,6 @@ When I'm not coding or teaching, I'm running marathons. Same mindset: start, pus
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dantech0xff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantech0xff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dantech0xff&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <div align="center">
 
 ## 💸 You Can Code. Can You Monetize?
