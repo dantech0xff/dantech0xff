@@ -18,9 +18,5 @@
   "bugs": {
     "url": "https://github.com/dantech0xff/dantech0xff/issues"
   },
-  "homepage": "https://github.com/dantech0xff/dantech0xff#readme",
-  "dependencies": {
-    "axios": "^0.27.2",
-    "coingecko-api": "^1.0.10"
-  }
+  "homepage": "https://github.com/dantech0xff/dantech0xff#readme"
 }
