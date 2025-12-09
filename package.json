@@ -1,24 +1,24 @@
 {
-  "name": "danhtran.dev",
+  "name": "dantech0xff",
   "version": "1.0.0",
-  "description": "@danhtran.dev",
+  "description": "@dantech0xff",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danhtran-dev/danhtran-dev.git"
+    "url": "git+https://github.com/dantech0xff/dantech0xff.git"
   },
   "keywords": [
-    "danhtran.dev"
+    "dantech0xff"
   ],
-  "author": "danhtran.dev",
+  "author": "dantech0xff",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danhtran-dev/danhtran-dev/issues"
+    "url": "https://github.com/dantech0xff/dantech0xff/issues"
   },
-  "homepage": "https://github.com/danhtran-dev/danhtran-dev#readme",
+  "homepage": "https://github.com/dantech0xff/dantech0xff#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "coingecko-api": "^1.0.10"
