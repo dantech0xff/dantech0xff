@@ -14,14 +14,16 @@
 
 ## About Me
 
-```yaml
-name: Dan Tran
-based_in: Ho Chi Minh City, Vietnam
-what_i_do: Build Android apps that scale. Teach others to profit from theirs.
-tech: ["Kotlin", "Node.js", "GCP", "AWS"]
-side_quest: Marathon runner chasing PRs (personal records, not pull requests)
-scale: Apps I've shipped → millions of active users
-teaching_at: dantech.academy
+```json
+{
+  "name": "Dan Tran",
+  "based_in": "Ho Chi Minh City, Vietnam",
+  "what_i_do": "Build Android apps that scale. Teach others to profit from theirs.",
+  "tech": ["Kotlin", "Node.js", "GCP", "AWS"],
+  "side_quest": "Marathon runner chasing PRs (personal records, not pull requests)",
+  "scale": "Apps I've shipped → millions of active users",
+  "teaching_at": "dantech.academy"
+}
 ```
 
 I build Android apps that don't break when they scale.
@@ -73,5 +75,11 @@ _If you're shipping mobile apps or want to—let's talk._
 [![dantech.academy](https://img.shields.io/badge/dantech.academy-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dantech.academy)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dantech0xff&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+### 💡 Quote of the Day
+
+{QUOTE_HERE}
 
 </div>
