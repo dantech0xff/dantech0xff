@@ -12,7 +12,7 @@
 
 ---
 
-## About Me
+### About Me
 
 ```json
 {
@@ -34,9 +34,7 @@ When I'm not coding or teaching, I'm running marathons. Same mindset: start, pus
 
 ---
 
-<div align="center">
-
-## 💸 You Can Code. Can You Monetize?
+### 💸 You Can Code. Can You Monetize?
 
 Most devs ship apps that make **$0**.
 
@@ -46,11 +44,7 @@ I teach you the frameworks, strategies, and business models<br/>that turned my a
 
 [![Start Learning](https://img.shields.io/badge/Start_Learning_→-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](https://dantech.academy)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### Let's Connect
 
@@ -70,5 +64,3 @@ _If you're shipping mobile apps or want to—let's talk._
 > "Keep your friends close, and your enemies closer."
 >
 > — _Sun Tzu_
-
-</div>
