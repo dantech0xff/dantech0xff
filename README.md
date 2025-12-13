@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "First, solve the problem. Then, write the code."
+> "If I have seen further than others, it is by standing upon the shoulders of giants."
 >
-> — *John Johnson*
+> — *Isaac Newton*
