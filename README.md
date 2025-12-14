@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "If I have seen further than others, it is by standing upon the shoulders of giants."
+> "Before software can be reusable it first has to be usable."
 >
-> — *Isaac Newton*
+> — *Ralph Johnson*
