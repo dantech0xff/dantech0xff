@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
+> "Perseverance and spirit have done wonders in all ages. "
 >
-> — *Patrick McKenzie*
+> — *George Washington*
