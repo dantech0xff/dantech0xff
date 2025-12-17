@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Perseverance and spirit have done wonders in all ages. "
+> "Everyday is a second chance."
 >
-> — *George Washington*
+> — *Unknown*
