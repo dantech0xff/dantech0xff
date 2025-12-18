@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Everyday is a second chance."
+> "Every failure brings with it the seed of an equivalent success."
 >
-> — *Unknown*
+> — *Napoleon Hill*
