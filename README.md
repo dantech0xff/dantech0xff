@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Every failure brings with it the seed of an equivalent success."
+> "The only way to learn a new programming language is by writing programs in it."
 >
-> — *Napoleon Hill*
+> — *Dennis Ritchie*
