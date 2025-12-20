@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The only way to learn a new programming language is by writing programs in it."
+> "Java is to JavaScript what car is to carpet."
 >
-> — *Dennis Ritchie*
+> — *Chris Heilmann*
