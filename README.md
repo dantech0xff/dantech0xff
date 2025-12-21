@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Java is to JavaScript what car is to carpet."
+> "You have power over your mind - not outside events. Realize this, and you will find strength."
 >
-> — *Chris Heilmann*
+> — *Marcus Aurelius*
