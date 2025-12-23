@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Debugging is twice as hard as writing the code in the first place."
+> "Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."
 >
-> — *Brian Kernighan*
+> — *Anne Wilson Schaef*
