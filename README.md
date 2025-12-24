@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."
+> "Before software can be reusable it first has to be usable."
 >
-> — *Anne Wilson Schaef*
+> — *Ralph Johnson*
