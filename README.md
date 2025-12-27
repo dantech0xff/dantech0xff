@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Before software can be reusable it first has to be usable."
+> "The only limits in your life are those that you set yourself."
 >
-> — *Ralph Johnson*
+> — *Celestine Chua*
