@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The only limits in your life are those that you set yourself."
+> "Failure is not fatal, but failure to change might be."
 >
-> — *Celestine Chua*
+> — *John Wooden*
