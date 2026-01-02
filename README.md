@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Not all readers are leaders, but all leaders are readers."
+> "Hope and fear come from feeling that we lack something; they come from a sense of poverty."
 >
-> — *Harry S. Truman*
+> — *Pema Chodron*
