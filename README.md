@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Simplicity is the soul of efficiency."
+> "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."
 >
-> — *Austin Freeman*
+> — *Ayn Rand*
