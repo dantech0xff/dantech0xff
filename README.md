@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The best way to find yourself is to lose yourself in the service of others."
+> "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."
 >
-> — *Mahatma Gandhi*
+> — *Epictetus*
