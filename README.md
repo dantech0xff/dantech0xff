@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."
+> "First, solve the problem. Then, write the code."
 >
-> — *Epictetus*
+> — *John Johnson*
