@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Be like a postage stamp. Stick to it until you get there."
+> "The majority of what you want will come from the minority of what you do."
 >
-> — *Bob Proctor*
+> — *Gary Keller*
