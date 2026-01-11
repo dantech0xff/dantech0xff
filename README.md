@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The majority of what you want will come from the minority of what you do."
+> "The function of good software is to make the complex appear to be simple."
 >
-> — *Gary Keller*
+> — *Grady Booch*
