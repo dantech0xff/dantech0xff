@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Success is a poor teacher."
+> "Your work is to discover your work and then, with all your heart, to give yourself to it."
 >
-> — *Robert Kiyosaki*
+> — *Buddha*
