@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Your work is to discover your work and then, with all your heart, to give yourself to it."
+> "Debugging is twice as hard as writing the code in the first place."
 >
-> — *Buddha*
+> — *Brian Kernighan*
