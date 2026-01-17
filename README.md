@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Good code is its own best documentation."
+> "Debugging is twice as hard as writing the code in the first place."
 >
-> — *Steve McConnell*
+> — *Brian Kernighan*
