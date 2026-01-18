@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Debugging is twice as hard as writing the code in the first place."
+> "A gentleman is one who puts more into the world than he takes out."
 >
-> — *Brian Kernighan*
+> — *George Bernard Shaw*
