@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "A gentleman is one who puts more into the world than he takes out."
+> "Java is to JavaScript what car is to carpet."
 >
-> — *George Bernard Shaw*
+> — *Chris Heilmann*
