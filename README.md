@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "True knowledge exists in knowing that you know nothing."
+> "For things to change, you have to change."
 >
-> — *Socrates*
+> — *Jim Rohn*
