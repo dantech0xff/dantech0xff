@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "For things to change, you have to change."
+> "Don't let anyone define you. You define yourself."
 >
-> — *Jim Rohn*
+> — *Billie Jean King*
