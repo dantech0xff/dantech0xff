@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Don't let anyone define you. You define yourself."
+> "Talk is cheap. Show me the code."
 >
-> — *Billie Jean King*
+> — *Linus Torvalds*
