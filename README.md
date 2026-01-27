@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."
+> "Don't learn to do, but learn in doing."
 >
-> — *Albus Dumbledore*
+> — *Samuel Butler*
