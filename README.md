@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Don't learn to do, but learn in doing."
+> "Make your stand today. On this spot. On this day."
 >
-> — *Samuel Butler*
+> — *Ming-Dao Deng*
