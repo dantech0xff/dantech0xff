@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "My guiding principle is this: Guilt is never to be doubted. "
+> "First, solve the problem. Then, write the code."
 >
-> — *Franz Kafka*
+> — *John Johnson*
