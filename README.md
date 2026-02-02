@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The function of good software is to make the complex appear to be simple."
+> "Help others achieve their dreams and you will achieve yours."
 >
-> — *Grady Booch*
+> — *Les Brown*
