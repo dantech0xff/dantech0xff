@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Help others achieve their dreams and you will achieve yours."
+> "Life is a gift. Never forget to enjoy and bask in every moment you are in."
 >
-> — *Les Brown*
+> — *Celestine Chua*
