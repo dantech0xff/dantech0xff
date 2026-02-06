@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The function of good software is to make the complex appear to be simple."
+> "First, solve the problem. Then, write the code."
 >
-> — *Grady Booch*
+> — *John Johnson*
