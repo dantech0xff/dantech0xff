@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Fear is a natural reaction to moving closer to the truth."
+> "The only way to learn a new programming language is by writing programs in it."
 >
-> — *Pema Chodron*
+> — *Dennis Ritchie*
