@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Code is like humor. When you have to explain it, it's bad."
+> "Good code is its own best documentation."
 >
-> — *Cory House*
+> — *Steve McConnell*
