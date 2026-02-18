@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Good code is its own best documentation."
+> "Enjoy every minute of life. Never second-guess life."
 >
-> — *Steve McConnell*
+> — *Michael Jordan*
