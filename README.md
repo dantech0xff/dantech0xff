@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Enjoy every minute of life. Never second-guess life."
+> "You live by what you thrill to, and there's the end of it."
 >
-> — *Michael Jordan*
+> — *D. H. Lawrence*
