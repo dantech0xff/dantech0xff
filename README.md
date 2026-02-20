@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "You live by what you thrill to, and there's the end of it."
+> "Ripe fruit falls by itself - but it doesn't fall in your mouth. "
 >
-> — *D. H. Lawrence*
+> — *Chinese Proverb*
