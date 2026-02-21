@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Ripe fruit falls by itself - but it doesn't fall in your mouth. "
+> "Nothing will work unless you do."
 >
-> — *Chinese Proverb*
+> — *Maya Angelou*
