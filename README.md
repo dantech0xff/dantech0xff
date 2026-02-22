@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Nothing will work unless you do."
+> "Before software can be reusable it first has to be usable."
 >
-> — *Maya Angelou*
+> — *Ralph Johnson*
