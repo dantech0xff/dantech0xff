@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Simplicity is the soul of efficiency."
+> "Make it work, make it right, make it fast."
 >
-> — *Austin Freeman*
+> — *Kent Beck*
