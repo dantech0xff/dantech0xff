@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Make it work, make it right, make it fast."
+> "Good code is its own best documentation."
 >
-> — *Kent Beck*
+> — *Steve McConnell*
