@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+> "Follow the man who seeks the truth; run from the man who has found it."
 >
-> — *Antoine de Saint-Exupéry*
+> — *Vaclav Havel*
