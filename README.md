@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Follow the man who seeks the truth; run from the man who has found it."
+> "The best error message is the one that never shows up."
 >
-> — *Vaclav Havel*
+> — *Thomas Fuchs*
