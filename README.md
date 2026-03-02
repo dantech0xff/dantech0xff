@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The best error message is the one that never shows up."
+> "If I persist long enough I will win."
 >
-> — *Thomas Fuchs*
+> — *Og Mandino*
