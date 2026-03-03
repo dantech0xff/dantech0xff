@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "If I persist long enough I will win."
+> "Death is not sad; the sad thing is that most people don't really live at all."
 >
-> — *Og Mandino*
+> — *Dan Millman*
