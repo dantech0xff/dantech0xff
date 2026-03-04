@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Death is not sad; the sad thing is that most people don't really live at all."
+> "Things do not have meaning. We assign meaning to everything."
 >
-> — *Dan Millman*
+> — *Tony Robbins*
