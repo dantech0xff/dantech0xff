@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Things do not have meaning. We assign meaning to everything."
+> "Life does not get better by chance, it gets better by change."
 >
-> — *Tony Robbins*
+> — *Jim Rohn*
