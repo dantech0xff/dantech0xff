@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Life does not get better by chance, it gets better by change."
+> "Be patient and calm; no one can catch fish in anger."
 >
-> — *Jim Rohn*
+> — *Herbert Hoover*
