@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Be patient and calm; no one can catch fish in anger."
+> "Debugging is twice as hard as writing the code in the first place."
 >
-> — *Herbert Hoover*
+> — *Brian Kernighan*
