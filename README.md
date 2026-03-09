@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Good code is its own best documentation."
+> "When you know what you want, and you want it bad enough, you will find a way to get it."
 >
-> — *Steve McConnell*
+> — *Jim Rohn*
