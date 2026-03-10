@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "When you know what you want, and you want it bad enough, you will find a way to get it."
+> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
 >
-> — *Jim Rohn*
+> — *Patrick McKenzie*
