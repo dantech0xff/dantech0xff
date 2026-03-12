@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Wisdom is doing now what you are going to be happy with later on."
+> "Talk is cheap. Show me the code."
 >
-> — *Joyce Meyer*
+> — *Linus Torvalds*
