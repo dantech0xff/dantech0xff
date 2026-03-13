@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Talk is cheap. Show me the code."
+> "Be kind, for everyone you meet is fighting a harder battle."
 >
-> — *Linus Torvalds*
+> — *Plato*
