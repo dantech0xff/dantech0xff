@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Be kind, for everyone you meet is fighting a harder battle."
+> "One of my most productive days was throwing away 1,000 lines of code."
 >
-> — *Plato*
+> — *Ken Thompson*
