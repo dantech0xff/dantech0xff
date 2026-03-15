@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "One of my most productive days was throwing away 1,000 lines of code."
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
-> — *Ken Thompson*
+> — *Martin Fowler*
