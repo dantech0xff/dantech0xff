@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "One of my most productive days was throwing away 1,000 lines of code."
+> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 >
-> — *Ken Thompson*
+> — *Antoine de Saint-Exupéry*
