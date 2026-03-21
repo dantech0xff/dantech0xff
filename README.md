@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "One of my most productive days was throwing away 1,000 lines of code."
+> "Simplicity is the soul of efficiency."
 >
-> — *Ken Thompson*
+> — *Austin Freeman*
