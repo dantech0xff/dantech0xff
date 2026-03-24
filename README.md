@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Muddy water is best cleared by leaving it alone."
+> "Do the hard jobs first. The easy jobs will take care of themselves."
 >
-> — *Alan Watts*
+> — *Dale Carnegie*
