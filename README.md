@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Do the hard jobs first. The easy jobs will take care of themselves."
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
-> — *Dale Carnegie*
+> — *Martin Fowler*
