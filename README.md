@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The eyes of others our prisons; their thoughts our cages."
+> "The function of good software is to make the complex appear to be simple."
 >
-> — *Virginia Woolf*
+> — *Grady Booch*
