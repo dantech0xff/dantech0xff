@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Code is like humor. When you have to explain it, it's bad."
+> "People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."
 >
-> — *Cory House*
+> — *David Brinkley*
