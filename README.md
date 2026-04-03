@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."
+> "No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."
 >
-> — *David Brinkley*
+> — *Wayne Gretzky*
