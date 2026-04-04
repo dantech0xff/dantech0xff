@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."
+> "Debugging is twice as hard as writing the code in the first place."
 >
-> — *Wayne Gretzky*
+> — *Brian Kernighan*
