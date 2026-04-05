@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Debugging is twice as hard as writing the code in the first place."
+> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 >
-> — *Brian Kernighan*
+> — *Antoine de Saint-Exupéry*
