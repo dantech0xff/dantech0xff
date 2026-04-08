@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "We can have more than we've got because we can become more than we are."
+> "Simplicity is the soul of efficiency."
 >
-> — *Jim Rohn*
+> — *Austin Freeman*
