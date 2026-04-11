@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."
+> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 >
-> — *Gary Keller*
+> — *Antoine de Saint-Exupéry*
