@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "First, solve the problem. Then, write the code."
+> "Programs must be written for people to read, and only incidentally for machines to execute."
 >
-> — *John Johnson*
+> — *Harold Abelson*
