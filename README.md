@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Be true to yourself, help others, make each day your masterpiece"
+> "Programs must be written for people to read, and only incidentally for machines to execute."
 >
-> — *John Wooden*
+> — *Harold Abelson*
