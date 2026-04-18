@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "First, solve the problem. Then, write the code."
+> "It is better to disappoint people with the truth than to appease them with a lie."
 >
-> — *John Johnson*
+> — *Simon Sinek*
