@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "It is better to disappoint people with the truth than to appease them with a lie."
+> "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."
 >
-> — *Simon Sinek*
+> — *James Matthew Barrie*
