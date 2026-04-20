@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."
+> "Watch what you say, and whatever you say, practice it."
 >
-> — *James Matthew Barrie*
+> — *Soyen Shaku*
