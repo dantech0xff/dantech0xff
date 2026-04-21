@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Watch what you say, and whatever you say, practice it."
+> "The only way to learn a new programming language is by writing programs in it."
 >
-> — *Soyen Shaku*
+> — *Dennis Ritchie*
