@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Do good, live in the most positive and joyful way possible every day."
+> "First, solve the problem. Then, write the code."
 >
-> — *Roy T. Bennett*
+> — *John Johnson*
