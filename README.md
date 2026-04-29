@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "First, solve the problem. Then, write the code."
+> "It's not a bug — it's an undocumented feature."
 >
-> — *John Johnson*
+> — *Anonymous*
