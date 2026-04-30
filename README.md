@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "It's not a bug — it's an undocumented feature."
+> "The greatest discovery of all time is that a person can change their future by merely changing their attitude."
 >
-> — *Anonymous*
+> — *Oprah Winfrey*
