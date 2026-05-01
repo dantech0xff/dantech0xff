@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The greatest discovery of all time is that a person can change their future by merely changing their attitude."
+> "Friendship takes time and energy if it's going to work."
 >
-> — *Oprah Winfrey*
+> — *Betty White*
