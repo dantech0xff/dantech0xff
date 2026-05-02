@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Friendship takes time and energy if it's going to work."
+> "A good stance and posture reflect a proper state of mind."
 >
-> — *Betty White*
+> — *Morihei Ueshiba*
