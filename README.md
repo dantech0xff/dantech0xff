@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "A good stance and posture reflect a proper state of mind."
+> "Night is a more quiet time to work. It aids thought."
 >
-> — *Morihei Ueshiba*
+> — *Alexander Graham Bell*
