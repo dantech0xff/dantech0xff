@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Night is a more quiet time to work. It aids thought."
+> "A little impatience will spoil great plans."
 >
-> — *Alexander Graham Bell*
+> — *Chinese Proverb*
