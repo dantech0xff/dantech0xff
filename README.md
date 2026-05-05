@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "A little impatience will spoil great plans."
+> "Good code is its own best documentation."
 >
-> — *Chinese Proverb*
+> — *Steve McConnell*
