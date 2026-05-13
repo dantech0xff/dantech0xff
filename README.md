@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "You are the only real obstacle in your path to a fulfilling life."
+> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."
 >
-> — *Les Brown*
+> — *Emily Dickinson*
