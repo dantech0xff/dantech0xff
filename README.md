@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."
+> "Learn from the rejection and turn it into an opportunity!"
 >
-> — *Emily Dickinson*
+> — *Mary Engelbreit*
