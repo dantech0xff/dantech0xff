@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Learn from the rejection and turn it into an opportunity!"
+> "The person who never made a mistake never tried anything new."
 >
-> — *Mary Engelbreit*
+> — *Albert Einstein*
