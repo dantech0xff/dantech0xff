@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The person who never made a mistake never tried anything new."
+> "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."
 >
-> — *Albert Einstein*
+> — *Elbert Hubbard*
