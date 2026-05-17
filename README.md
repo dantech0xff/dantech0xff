@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."
+> "Before software can be reusable it first has to be usable."
 >
-> — *Elbert Hubbard*
+> — *Ralph Johnson*
