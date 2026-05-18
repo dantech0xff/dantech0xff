@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Before software can be reusable it first has to be usable."
+> "Learn from the rejection and turn it into an opportunity!"
 >
-> — *Ralph Johnson*
+> — *Mary Engelbreit*
