@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "If you chase two rabbits, you catch none."
+> "One mistake does not have to rule a person's entire life."
 >
-> — *Confucius*
+> — *Joyce Meyer*
