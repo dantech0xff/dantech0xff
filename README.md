@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "One mistake does not have to rule a person's entire life."
+> "Debugging is twice as hard as writing the code in the first place."
 >
-> — *Joyce Meyer*
+> — *Brian Kernighan*
