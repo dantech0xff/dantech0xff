@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "When you love someone, you love the person as they are, and not as you'd like them to be."
+> "People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."
 >
-> — *Leo Tolstoy*
+> — *Brian Tracy*
