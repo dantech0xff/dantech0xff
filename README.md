@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."
+> "A person hears only what they understand."
 >
-> — *Brian Tracy*
+> — *Johann Wolfgang von Goethe*
