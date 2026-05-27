@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "A person hears only what they understand."
+> "Simplicity is the soul of efficiency."
 >
-> — *Johann Wolfgang von Goethe*
+> — *Austin Freeman*
