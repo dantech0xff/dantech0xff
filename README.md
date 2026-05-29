@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
+> "Do something to move yourself toward your major goal every day."
 >
-> — *Bill Gates*
+> — *Brian Tracy*
