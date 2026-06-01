@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The function of good software is to make the complex appear to be simple."
+> "Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."
 >
-> — *Grady Booch*
+> — *John D. Rockefeller*
