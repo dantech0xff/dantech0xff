@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."
+> "A mountain never yields to the wind no matter how strong it is."
 >
-> — *John D. Rockefeller*
+> — *Zen Proverb*
