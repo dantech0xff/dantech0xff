@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "A mountain never yields to the wind no matter how strong it is."
+> "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."
 >
-> — *Zen Proverb*
+> — *Eckhart Tolle*
