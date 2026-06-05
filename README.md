@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The only way to learn a new programming language is by writing programs in it."
+> "Don't be afraid to go slowly. Be afraid of stopping."
 >
-> — *Dennis Ritchie*
+> — *Zen Proverb*
