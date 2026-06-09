@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The function of good software is to make the complex appear to be simple."
+> "People who say it cannot be done should not interrupt those who are doing it."
 >
-> — *Grady Booch*
+> — *George Bernard Shaw*
