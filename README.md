@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "People who say it cannot be done should not interrupt those who are doing it."
+> "Debugging is twice as hard as writing the code in the first place."
 >
-> — *George Bernard Shaw*
+> — *Brian Kernighan*
