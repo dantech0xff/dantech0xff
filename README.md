@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+> "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."
 >
-> — *Antoine de Saint-Exupéry*
+> — *Eckhart Tolle*
