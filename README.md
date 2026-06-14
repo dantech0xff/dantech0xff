@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."
+> "Today is the oldest you've ever been, and the youngest you'll ever be again."
 >
-> — *Eckhart Tolle*
+> — *Eleanor Roosevelt*
