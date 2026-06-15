@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Today is the oldest you've ever been, and the youngest you'll ever be again."
+> "It's not a bug — it's an undocumented feature."
 >
-> — *Eleanor Roosevelt*
+> — *Anonymous*
