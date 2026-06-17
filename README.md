@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "If you take responsibility for yourself you will develop a hunger to accomplish your dream."
+> "No man is happy who does not think himself so."
 >
-> — *Les Brown*
+> — *Norman Vincent Peale*
