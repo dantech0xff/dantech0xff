@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "No man is happy who does not think himself so."
+> "What's right is what's left if you do everything else wrong."
 >
-> — *Norman Vincent Peale*
+> — *Robin Williams*
