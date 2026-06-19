@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "What's right is what's left if you do everything else wrong."
+> "The beautiful journey of today can only begin when we learn to let go of yesterday."
 >
-> — *Robin Williams*
+> — *Steve Maraboli*
