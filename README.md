@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."
+> "The function of good software is to make the complex appear to be simple."
 >
-> — *Celestine Chua*
+> — *Grady Booch*
