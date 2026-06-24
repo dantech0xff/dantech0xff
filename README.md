@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
+> "The truth is heavy, therefore few care to carry it."
 >
-> — *Patrick McKenzie*
+> — *Winston Churchill*
