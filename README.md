@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The truth is heavy, therefore few care to carry it."
+> "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."
 >
-> — *Winston Churchill*
+> — *Wayne Gretzky*
