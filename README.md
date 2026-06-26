@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."
+> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
 >
-> — *Wayne Gretzky*
+> — *Patrick McKenzie*
