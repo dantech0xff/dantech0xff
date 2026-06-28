@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The more you are motivated by Love, The more Fearless & Free your action will be."
+> "Giving back involves a certain amount of giving up."
 >
-> — *Dalai Lama*
+> — *Colin Powell*
