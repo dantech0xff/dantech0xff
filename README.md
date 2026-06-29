@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Giving back involves a certain amount of giving up."
+> "All know the way; few actually walk it."
 >
-> — *Colin Powell*
+> — *Bodhidharma*
