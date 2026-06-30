@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "All know the way; few actually walk it."
+> "I love fools' experiments. I am always making them."
 >
-> — *Bodhidharma*
+> — *Charles Darwin*
