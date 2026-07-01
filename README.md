@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "I love fools' experiments. I am always making them."
+> "It's not a bug — it's an undocumented feature."
 >
-> — *Charles Darwin*
+> — *Anonymous*
