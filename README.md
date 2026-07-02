@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "It's not a bug — it's an undocumented feature."
+> "Do not pray for an easy life, pray for the strength to endure a difficult one."
 >
-> — *Anonymous*
+> — *Bruce Lee*
