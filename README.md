@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."
+> "Success is getting what you want, happiness is wanting what you get."
 >
-> — *Sonia Ricotti*
+> — *W.P. Kinsella*
