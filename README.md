@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Success is getting what you want, happiness is wanting what you get."
+> "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."
 >
-> — *W.P. Kinsella*
+> — *Virginia Woolf*
