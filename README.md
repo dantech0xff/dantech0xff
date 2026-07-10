@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."
+> "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."
 >
-> — *Virginia Woolf*
+> — *Henry Ward Beecher*
