@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."
+> "Successful people do what unsuccessful people are not willing to do."
 >
-> — *Henry Ward Beecher*
+> — *Jim Rohn*
