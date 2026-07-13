@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Java is to JavaScript what car is to carpet."
+> "A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."
 >
-> — *Chris Heilmann*
+> — *Tony Robbins*
