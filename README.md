@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."
+> "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."
 >
-> — *Tony Robbins*
+> — *Colin R. Davis*
