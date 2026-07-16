@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The function of good software is to make the complex appear to be simple."
+> "A man that flies from his fear may find that he has only taken a short cut to meet it."
 >
-> — *Grady Booch*
+> — *J.R.R. Tolkien*
