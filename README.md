@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "A man that flies from his fear may find that he has only taken a short cut to meet it."
+> "If you want something then you lose everything. If you don't want anything then you already have everything."
 >
-> — *J.R.R. Tolkien*
+> — *Seungsahn*
