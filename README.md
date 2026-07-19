@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Debugging is twice as hard as writing the code in the first place."
+> "In youth we run into difficulties. In old age difficulties run into us."
 >
-> — *Brian Kernighan*
+> — *Beverly Sills*
