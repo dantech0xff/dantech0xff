@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Simplicity is the soul of efficiency."
+> "Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."
 >
-> — *Austin Freeman*
+> — *Pema Chodron*
