@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."
+> "The best error message is the one that never shows up."
 >
-> — *Pema Chodron*
+> — *Thomas Fuchs*
