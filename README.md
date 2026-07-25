@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+> "The best error message is the one that never shows up."
 >
-> — *Martin Fowler*
+> — *Thomas Fuchs*
