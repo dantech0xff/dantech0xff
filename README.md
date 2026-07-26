@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The best error message is the one that never shows up."
+> "The only way to learn a new programming language is by writing programs in it."
 >
-> — *Thomas Fuchs*
+> — *Dennis Ritchie*
