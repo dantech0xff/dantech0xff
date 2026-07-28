@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "No man is happy unless he believes he is."
+> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 >
-> — *Publilius Syrus*
+> — *Antoine de Saint-Exupéry*
