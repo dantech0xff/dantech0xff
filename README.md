@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
+> "All that we see or seem is but a dream within a dream."
 >
-> — *Antoine de Saint-Exupéry*
+> — *Edgar Allan Poe*
