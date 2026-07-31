@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Circumstances do not make the man, they reveal him."
+> "Knowing yourself is the beginning of all wisdom."
 >
-> — *James Allen*
+> — *Aristotle*
