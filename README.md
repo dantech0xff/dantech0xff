@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+> "Talk is cheap. Show me the code."
 >
-> — *Edsger Dijkstra*
+> — *Linus Torvalds*
