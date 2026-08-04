@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Talk is cheap. Show me the code."
+> "Thoughts become things. If you see it in your mind, you will hold it in your hand."
 >
-> — *Linus Torvalds*
+> — *Bob Proctor*
