@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Thoughts become things. If you see it in your mind, you will hold it in your hand."
+> "For the things we have to learn before we can do them, we learn by doing them."
 >
-> — *Bob Proctor*
+> — *Aristotle*
