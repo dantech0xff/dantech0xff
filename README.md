@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "For the things we have to learn before we can do them, we learn by doing them."
+> "Everything is created twice, first in the mind and then in reality."
 >
-> — *Aristotle*
+> — *Robin Sharma*
