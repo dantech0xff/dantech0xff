@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Everything is created twice, first in the mind and then in reality."
+> "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."
 >
-> — *Robin Sharma*
+> — *Kahlil Gibran*
