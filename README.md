@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."
+> "It's not a bug — it's an undocumented feature."
 >
-> — *Kahlil Gibran*
+> — *Anonymous*
