@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "It's not a bug — it's an undocumented feature."
+> "Talk is cheap. Show me the code."
 >
-> — *Anonymous*
+> — *Linus Torvalds*
