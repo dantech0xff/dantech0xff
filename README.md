@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Happiness is the spiritual experience of living every minute with love, grace and gratitude."
+> "Intelligence is the ability to adapt to change."
 >
-> — *Denis Waitley*
+> — *Stephen Hawking*
