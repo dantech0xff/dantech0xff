@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Happiness is the absence of the striving for happiness."
+> "Optimism is the one quality more associated with success and happiness than any other."
 >
-> — *Zhuangzi*
+> — *Brian Tracy*
