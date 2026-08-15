@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Optimism is the one quality more associated with success and happiness than any other."
+> "Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."
 >
-> — *Brian Tracy*
+> — *Theodore Roosevelt*
