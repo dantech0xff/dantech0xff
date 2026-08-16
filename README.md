@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."
+> "Good code is its own best documentation."
 >
-> — *Theodore Roosevelt*
+> — *Steve McConnell*
