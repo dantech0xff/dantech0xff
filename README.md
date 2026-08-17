@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Good code is its own best documentation."
+> "Every blessing ignored becomes a curse."
 >
-> — *Steve McConnell*
+> — *Paulo Coelho*
