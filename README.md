@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The only reason to be alive is to enjoy it."
+> "Debugging is twice as hard as writing the code in the first place."
 >
-> — *Rita Mae Brown*
+> — *Brian Kernighan*
