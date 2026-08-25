@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Debugging is twice as hard as writing the code in the first place."
+> "Failure will never overtake me if my determination to succeed is strong enough."
 >
-> — *Brian Kernighan*
+> — *Og Mandino*
