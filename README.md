@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Failure will never overtake me if my determination to succeed is strong enough."
+> "One of my most productive days was throwing away 1,000 lines of code."
 >
-> — *Og Mandino*
+> — *Ken Thompson*
