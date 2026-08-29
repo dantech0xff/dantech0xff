@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "To perceive is to suffer."
+> "The measure of wisdom is how calm you are when facing any given situation."
 >
-> — *Aristotle*
+> — *Naval Ravikant*
