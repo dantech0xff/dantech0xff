@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The measure of wisdom is how calm you are when facing any given situation."
+> "Love is the energy of life."
 >
-> — *Naval Ravikant*
+> — *Robert Browning*
