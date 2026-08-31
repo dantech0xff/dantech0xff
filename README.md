@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Love is the energy of life."
+> "A different result requires doing something different."
 >
-> — *Robert Browning*
+> — *Gary Keller*
