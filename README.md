@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "A different result requires doing something different."
+> "Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."
 >
-> — *Gary Keller*
+> — *George Eliot*
