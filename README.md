@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."
+> "As mortals, we're ruled by conditions, not by ourselves."
 >
-> — *George Eliot*
+> — *Bodhidharma*
