@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "As mortals, we're ruled by conditions, not by ourselves."
+> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
 >
-> — *Bodhidharma*
+> — *Bill Gates*
