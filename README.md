@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Even if you persuade me, you won't persuade me."
+> "It's not a bug — it's an undocumented feature."
 >
-> — *Aristophanes*
+> — *Anonymous*
