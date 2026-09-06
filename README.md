@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "It's not a bug — it's an undocumented feature."
+> "Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."
 >
-> — *Anonymous*
+> — *Alfred Adler*
