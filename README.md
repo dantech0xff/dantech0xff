@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
-> — *Alfred Adler*
+> — *Martin Fowler*
