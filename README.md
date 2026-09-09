@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
+> "Happiness is the meaning and the purpose of life, the whole aim and end of human existence."
 >
-> — *Harold Abelson*
+> — *Aristotle*
