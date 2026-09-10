@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Happiness is the meaning and the purpose of life, the whole aim and end of human existence."
+> "The most virtuous are those who content themselves with being virtuous without seeking to appear so."
 >
-> — *Aristotle*
+> — *Plato*
