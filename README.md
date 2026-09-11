@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The most virtuous are those who content themselves with being virtuous without seeking to appear so."
+> "Work for something because it is good, not just because it stands a chance to succeed."
 >
-> — *Plato*
+> — *Vaclav Havel*
