@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "We take care of the future best by taking care of the present now."
+> "Make it work, make it right, make it fast."
 >
-> — *Jon Kabat-Zinn*
+> — *Kent Beck*
