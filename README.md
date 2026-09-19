@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Your heart is the size of an ocean. Go find yourself in its hidden depths."
+> "No matter what happens, always be yourself."
 >
-> — *Rumi*
+> — *Dale Carnegie*
