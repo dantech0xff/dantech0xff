@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Talk is cheap. Show me the code."
+> "Where does a thought go when it's forgotten?"
 >
-> — *Linus Torvalds*
+> — *Sigmund Freud*
