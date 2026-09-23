@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
+> "Don't spend time beating on a wall, hoping to transform it into a door."
 >
-> — *Harold Abelson*
+> — *Coco Chanel*
