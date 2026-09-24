@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Don't spend time beating on a wall, hoping to transform it into a door."
+> "Waste not fresh tears over old griefs."
 >
-> — *Coco Chanel*
+> — *Euripides*
