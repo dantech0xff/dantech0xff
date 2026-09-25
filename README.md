@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Waste not fresh tears over old griefs."
+> "Showing off is the fool's idea of glory."
 >
-> — *Euripides*
+> — *Bruce Lee*
