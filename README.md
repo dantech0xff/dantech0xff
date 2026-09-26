@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Showing off is the fool's idea of glory."
+> "First, solve the problem. Then, write the code."
 >
-> — *Bruce Lee*
+> — *John Johnson*
