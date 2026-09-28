@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Time you enjoy wasting, was not wasted."
+> "Failure is not fatal, but failure to change might be."
 >
-> — *John Lennon*
+> — *John Wooden*
