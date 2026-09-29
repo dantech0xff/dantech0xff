@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Failure is not fatal, but failure to change might be."
+> "Before software can be reusable it first has to be usable."
 >
-> — *John Wooden*
+> — *Ralph Johnson*
