@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Before software can be reusable it first has to be usable."
+> "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."
 >
-> — *Ralph Johnson*
+> — *Mark Manson*
