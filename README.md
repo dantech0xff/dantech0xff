@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
-> — *Mark Manson*
+> — *Martin Fowler*
