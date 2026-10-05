@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Everyone you admire was once a beginner."
+> "The best error message is the one that never shows up."
 >
-> — *Jack Butcher*
+> — *Thomas Fuchs*
