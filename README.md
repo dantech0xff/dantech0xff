@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The best error message is the one that never shows up."
+> "Debugging is twice as hard as writing the code in the first place."
 >
-> — *Thomas Fuchs*
+> — *Brian Kernighan*
