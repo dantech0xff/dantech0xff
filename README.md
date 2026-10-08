@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Don't worry about being successful, but work toward being significant and the success will naturally follow."
+> "Talk is cheap. Show me the code."
 >
-> — *Oprah Winfrey*
+> — *Linus Torvalds*
