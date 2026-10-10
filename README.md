@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Talk is cheap. Show me the code."
+> "It is in the darkness that one finds the light."
 >
-> — *Linus Torvalds*
+> — *Meister Eckhart*
