@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "It is in the darkness that one finds the light."
+> "Good code is its own best documentation."
 >
-> — *Meister Eckhart*
+> — *Steve McConnell*
