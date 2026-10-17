@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Java is to JavaScript what car is to carpet."
+> "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
 >
-> — *Chris Heilmann*
+> — *Nikola Tesla*
