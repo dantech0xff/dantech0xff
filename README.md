@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Java is to JavaScript what car is to carpet."
+> "Make it work, make it right, make it fast."
 >
-> — *Chris Heilmann*
+> — *Kent Beck*
