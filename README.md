@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Make it work, make it right, make it fast."
+> "If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."
 >
-> — *Kent Beck*
+> — *Seungsahn*
