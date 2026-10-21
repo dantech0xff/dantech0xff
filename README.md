@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."
+> "He who leaves the game wins it."
 >
-> — *Seungsahn*
+> — *Nicolas Chamfort*
