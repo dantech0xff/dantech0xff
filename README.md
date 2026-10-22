@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "He who leaves the game wins it."
+> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight."
 >
-> — *Nicolas Chamfort*
+> — *Bill Gates*
