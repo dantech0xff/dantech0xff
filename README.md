@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Do you have the patience to wait until your mud settles and the water is clear?"
+> "Judge a man by his questions rather than his answers."
 >
-> — *Lao Tzu*
+> — *Voltaire*
