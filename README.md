@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Simplicity is the soul of efficiency."
+> "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
 >
-> — *Austin Freeman*
+> — *Edsger Dijkstra*
