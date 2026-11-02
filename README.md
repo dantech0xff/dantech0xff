@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."
+> "One of my most productive days was throwing away 1,000 lines of code."
 >
-> — *Unknown*
+> — *Ken Thompson*
