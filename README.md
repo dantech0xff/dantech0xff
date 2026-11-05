@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Talk is cheap. Show me the code."
+> "The chief cause of failure and unhappiness is trading what you want most for what you want right now."
 >
-> — *Linus Torvalds*
+> — *Zig Ziglar*
