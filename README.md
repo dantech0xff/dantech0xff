@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The chief cause of failure and unhappiness is trading what you want most for what you want right now."
+> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 >
-> — *Zig Ziglar*
+> — *Antoine de Saint-Exupéry*
