@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Simplicity is the soul of efficiency."
+> "The greatest step towards a life of simplicity is to learn to let go."
 >
-> — *Austin Freeman*
+> — *Steve Maraboli*
