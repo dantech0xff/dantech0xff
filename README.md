@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "The greatest step towards a life of simplicity is to learn to let go."
+> "Java is to JavaScript what car is to carpet."
 >
-> — *Steve Maraboli*
+> — *Chris Heilmann*
