@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "If you can't argue both sides, you can't argue."
+> "Better to die fighting for freedom than be a prisoner all the days of your life."
 >
-> — *Jack Butcher*
+> — *Bob Marley*
