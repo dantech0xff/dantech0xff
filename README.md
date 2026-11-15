@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "There is no significance in life without struggle."
+> "Friendship is like money, easier made than kept."
 >
-> — *Lolly Daskal*
+> — *Samuel Butler*
