@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Friendship is like money, easier made than kept."
+> "The only way to learn a new programming language is by writing programs in it."
 >
-> — *Samuel Butler*
+> — *Dennis Ritchie*
