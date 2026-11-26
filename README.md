@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "No kind action ever stops with itself. One kind action leads to another. Good example is followed."
+> "Thought is so cunning, so clever, that it distorts everything for its own convenience."
 >
-> — *Amelia Earhart*
+> — *Jiddu Krishnamurti*
