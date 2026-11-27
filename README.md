@@ -61,6 +61,6 @@ _If you're shipping mobile apps or want to—let's talk._
 
 ## 💡 Quote of the Day
 
-> "Thought is so cunning, so clever, that it distorts everything for its own convenience."
+> "The function of good software is to make the complex appear to be simple."
 >
-> — *Jiddu Krishnamurti*
+> — *Grady Booch*
